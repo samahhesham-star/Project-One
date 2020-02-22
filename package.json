@@ -1,0 +1,30 @@
+{
+  "name": "samah",
+  "version": "1.0.0",
+  "description": "Project Two",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samah",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^4.0.2",
+    "gulp-notify": "^3.2.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "gulp-zip": "^5.0.1"
+  },
+  "dependencies": {
+    "static-server": "^2.2.1"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 2%"
+  ]
+}
